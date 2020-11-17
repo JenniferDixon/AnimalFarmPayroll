@@ -8,4 +8,4 @@ The the initial setup of the development server was done following the intro to 
 After activating your virtual environment, run:
 python manage.py runserver
 
-
+#To DO
