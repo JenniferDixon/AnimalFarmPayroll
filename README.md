@@ -1,5 +1,12 @@
 # AnimalFarmPayroll
 
+## Background
+
+This app was created using the following coding challenge prompt: https://github.com/wvchallenges/se-challenge-payroll
+
+
+This app loosely follows the requirements of the challenge, with exception of requirements specifically for recruitment. 
+
 
 ## Spinning up Dev environment
 
@@ -9,3 +16,4 @@ After activating your virtual environment, run:
 python manage.py runserver
 
 #To DO
+
